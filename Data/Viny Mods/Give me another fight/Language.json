@@ -1,0 +1,25 @@
+{
+  "common": {
+    "none": "None"
+  },
+  "menu": {
+    "section": "Give me another fight",
+    "settings": "Settings",
+    "enabled": "Enable Player Nemesis",
+    "multiple": "Allow multiple nemeses",
+    "maximum_rank": "Maximum nemesis rank",
+    "excluded_perk": "Perk that prevents becoming a nemesis",
+    "activation_timing": "Become a nemesis",
+    "timing_death": "When the player dies",
+    "timing_respawn": "When the player respawns",
+    "timing_reencounter": "When the player encounters the NPC again",
+    "name_priority": "Name priority",
+    "name_tiers": "Nemesis names by tier",
+    "name_help": "Use {name} as the name base. When 'Continue previous tier name' is enabled, {name} means the final name from the previous tier; otherwise it means the original NPC name. Omit {name} to replace the complete name.",
+    "tier": "Tier",
+    "continue_previous_tier_name": "Continue previous tier name",
+    "maximum_nemeses": "Maximum simultaneous nemeses",
+    "maximum_nemeses_disclaimer": "0 = unlimited. The limit applies only to current nemeses; defeated nemeses free a slot.",
+    "opt_none": "None"
+  }
+}
